@@ -41,7 +41,7 @@ const App: React.FC = () => {
           <h2 className="text-4xl font-extrabold text-slate-900 mb-4 sm:text-5xl">
             Sua jornada para o <span className="text-emerald-500 underline decoration-emerald-200">bem-estar</span>
           </h2>
-          <p className="text-lg text-slate-600">Explore nossas 5 dicas fundamentais para uma vida mais leve e saudável.</p>
+          <p className="text-lg text-slate-600">Explore nossas dicas fundamentais para uma vida mais leve e saudável.</p>
         </div>
 
         {/* Tips Grid */}
