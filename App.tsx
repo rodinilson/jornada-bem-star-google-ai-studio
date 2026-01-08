@@ -53,7 +53,7 @@ const App: React.FC = () => {
           {/* Decorative/Extra Card for UI Balance */}
           <div className="bg-gradient-to-br from-emerald-500 to-teal-600 rounded-2xl p-8 flex flex-col justify-center items-center text-center text-white shadow-lg hidden lg:flex">
             <i className="fa-solid fa-star text-4xl mb-4"></i>
-            <h3 className="text-xl font-bold mb-2">O seu progresso importa</h3>
+            <h3 className="text-xl font-bold mb-2">O seu progresso importa!!!</h3>
             <p className="text-emerald-50/80">Cada escolha saudável é uma vitória para o seu futuro eu.</p>
           </div>
         </div>
