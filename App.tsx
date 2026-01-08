@@ -27,7 +27,7 @@ const App: React.FC = () => {
             <div className="bg-emerald-500 p-2 rounded-lg">
               <i className="fa-solid fa-heart-pulse text-white text-xl"></i>
             </div>
-            <h1 className="text-2xl font-black text-slate-800 tracking-tight">VidaSaudável 5</h1>
+            <h1 className="text-2xl font-black text-slate-800 tracking-tight">VidaSaudável</h1>
           </div>
           <p className="text-slate-500 text-center max-w-md">
             Pequenas mudanças diárias geram grandes resultados a longo prazo.
